@@ -10,7 +10,7 @@ Creating an application with node, betting games Futibaclub
 
 Este projeto foi entregue como parte do **Fullstack Academy** (edição FutibaClub) promovido pelo **DevPleno** (www.devpleno.com).
 
-**Participante:** null
+**Participante:** Wanderson Barbosa Borges
 
 **Chave do Certificado:** C9C8-9CEC-7492-80DB
 
